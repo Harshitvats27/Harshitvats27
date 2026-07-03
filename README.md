@@ -1,6 +1,9 @@
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1b2a&height=200&section=header&text=Harshit%20Vats&fontSize=50&fontColor=ffffff&fontAlignY=35" />
 
-</div>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4FC3F7&center=true&vCenter=true&width=600&lines=Flutter+Developer;Backend+Engineer+(Java+%2B+Spring+Boot);Founder+of+GrabKrt;Building+Real+Apps%2C+Not+Demos" alt="Typing SVG" />
+
 <p>
 <a href="https://www.linkedin.com/in/harshit-vats-aa820728a/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harshitvats237@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -100,6 +103,7 @@ Full-stack system with Spring Boot + PostgreSQL backend and Android/Retrofit cli
 | Tools & Cloud | Git · Android Studio · Retrofit · Sockets (UDP/TCP) · Azure |
 
 
+
 ## 🏆 Hackathons
 
 - **OneJourney Mobility Hackathon 2026** — Built Aegis, a zero-click safety app concept for urban commuters.
@@ -122,7 +126,7 @@ Full-stack system with Spring Boot + PostgreSQL backend and Android/Retrofit cli
 
 Open to Software Engineering internships and interesting problems.
 
-<a href="https://linkedin.com/in/harshit-vats"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harshit-vats-aa820728a/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="mailto:harshitvats237@gmail.com"><img src="https://img.shields.io/badge/Email-Reach%20Out-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
