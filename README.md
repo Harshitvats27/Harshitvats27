@@ -1,8 +1,4 @@
-<<div align="center">
 
-<img src="https://drive.google.com/uc?export=view&id=1PTOVMEYz7mv2I8J-EwmERFSP_9jg7VZF" width="150" style="border-radius:50%;" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3a5f,100:0d1b2a&height=200&section=header&text=Harshit%20Vats&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Flutter%20%26%20Backend%20Development&descAlignY=55&descSize=18" />
 
 </div>
 <p>
