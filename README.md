@@ -97,7 +97,7 @@ Full-stack system with Spring Boot + PostgreSQL backend and Android/Retrofit cli
 | Category | Stack |
 |---|---|
 | Languages | Java · C++ · Python · SQL · Dart |
-| Backend | Spring Boot · REST APIs · CRUD · Authentication |
+| Backend | Spring Boot · REST APIs · CRUD · Authentication · Node.js  |
 | Mobile & App | Flutter · Android (Java, XML) · Qt 6 (QML) |
 | Databases | PostgreSQL · Firebase (Firestore, Realtime DB) |
 | Tools & Cloud | Git · Android Studio · Retrofit · Sockets (UDP/TCP) · Azure |
