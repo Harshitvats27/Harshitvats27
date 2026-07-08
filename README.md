@@ -42,7 +42,7 @@ Pan-India e-commerce ecosystem built across three dedicated apps.
 **The build:**
 - 🔐 Secure authentication across GrabKrt, Command Admin & Delivery apps
 - 📦 Real-time product cataloging and order tracking
-- ⚡ Flutter + Firebase, closed testing on Play Store
+- ⚡ Flutter + Firebase,Node.js for Firebase PUsh Notifications closed testing on Play Store
 
 `Flutter` `Firebase` `Android`
 
